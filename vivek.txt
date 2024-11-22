@@ -5,7 +5,10 @@ I'm Devops Engg
 I'm 22
 
 I'm from Madurai
+<<<<<<< HEAD
 
 New text added
 
 I'm Siraj
+=======
+>>>>>>> 84f1bb360c62279c084c8ba34ff90648f6d1d000
